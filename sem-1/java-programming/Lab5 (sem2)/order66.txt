@@ -1,0 +1,5 @@
+help
+show
+info
+history
+execute_script order66.txt
